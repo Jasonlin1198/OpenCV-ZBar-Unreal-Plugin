@@ -5,4 +5,8 @@ Binaries/*
 Intermediate/*
 
 # Third Party Libraries
-Source/ThirdParty/*
+Source/ThirdParty/ZBarLibrary/*
+!Source/ThirdParty/ZBarLibrary/ZBarLibrary.Build.cs
+
+Source/ThirdParty/OpenCVLibrary/*
+!Source/ThirdParty/OpenCVLibrary/OpenCVLibrary.Build.cs
